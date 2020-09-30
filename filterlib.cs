@@ -4,7 +4,9 @@ using System.Text;
 
 namespace matchkey
 {
-    class filterlib
+    public class Filterlib
     {
+
+
     }
 }
