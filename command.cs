@@ -2,7 +2,7 @@
 
 namespace matchkey
 {
-    class command
+    class Command
     {
 
         public void Enter(string[] cmd)

@@ -9,4 +9,16 @@
     <PackageReference Include="NeoLua" Version="1.3.13-beta.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="pp.lua">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="property.lua">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="test.lua">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
